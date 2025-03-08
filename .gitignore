@@ -21,6 +21,7 @@
 /electron.main.js
 
 # IDEs and editors
+.angular/
 .idea/*
 !.idea/runConfigurations/
 !.idea/codeStyleSettings.xml
