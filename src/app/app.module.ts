@@ -5,9 +5,9 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { NgxTypedJsModule } from 'ngx-typed-js';
-import { AdminComponent } from './components/Admin/admin.component';
+
 @NgModule({
-  declarations: [AppComponent, AdminComponent],
+  declarations: [AppComponent],
   imports: [BrowserModule, AppRoutingModule, NgxTypedJsModule],
   providers: [],
   bootstrap: [AppComponent],
